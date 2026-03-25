@@ -13,6 +13,7 @@ Total alerts analyzed: 413
 Time range: 2026-03-16T00:08:20.847+0000 to 2026-03-16T14:06:58.897+0000
 
 📊 TOP 5 ALERT TYPES:
+
 • Apparmor DENIED: 178
 • File added to the system.: 84
 • PAM: Login session opened.: 37
@@ -20,6 +21,7 @@ Time range: 2026-03-16T00:08:20.847+0000 to 2026-03-16T14:06:58.897+0000
 • Successful sudo to ROOT executed.: 31
 
 📈 ALERTS BY SEVERITY LEVEL:
+
 • Level 3: 289
 • Level 4: 1
 • Level 5: 89
