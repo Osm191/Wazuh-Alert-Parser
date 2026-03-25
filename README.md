@@ -5,6 +5,8 @@ A Python script to parse Wazuh SIEM alerts and generate security event reports f
 ## 📊 Sample Output
 
 From 413 alerts generated during Wazuh deployment:
+![Parser Output](screenshots/1.jpg)
+![Parser Output](screenshots/2.jpg)
 ==================================================
 WAZUH ALERT ANALYSIS REPORT
 ==================================================
